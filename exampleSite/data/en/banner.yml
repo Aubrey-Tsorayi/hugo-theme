@@ -4,8 +4,8 @@ banner:
   bg_image_webp: "images/backgrounds/hero-area.webp"
   bg_image: "images/backgrounds/hero-area.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
-  title: "We build it the customer ways"
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title: "The home of full stack web development"
+  content: "Welcome to our website, we are thrilled to have you here and can't wait to show you what we have in store!"
   button:
     enable: true
     label: "Explore Us"

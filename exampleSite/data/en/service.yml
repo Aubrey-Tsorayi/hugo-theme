@@ -4,10 +4,10 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Static and Dynamic Websites
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : With the clients at heart, we are there to serve the requests as specific/custom as they can get we can cater for requests for small businesses which usually need small and static websites
+We also make designs for bigger businesses that may need more complex websites that have different kinds of functionalities
     # service item loop
     - name : Responsive Design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons

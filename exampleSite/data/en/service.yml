@@ -19,11 +19,11 @@ service:
       content : In as much as web development is concerned, confidentiality is also present.
                 Our web design style is always centered on security of the littlest of detail up to the most confidential of files like the information usually stored in databases.
                 We ensure this by ::
-               -Adding HTTPS and SSL Certificate
-               -Use of Smart passwords that are difficult to crack
-               -Implementing a secure Web Host
-               -Seperating user login pages from administrative ones through use of privileges
-               -And many other funtionalities!
+                1.Adding HTTPS and SSL Certificate
+                2.Use of Smart passwords that are difficult to crack
+                3.Implementing a secure Web Host
+                4.Seperating user login pages from administrative ones through use of privileges
+                5.And many other funtionalities!
     # service item loop
     - name : Graphic Design
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons

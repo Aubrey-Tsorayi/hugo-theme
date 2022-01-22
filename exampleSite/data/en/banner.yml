@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable: true
-  bg_image_webp: "images/backgrounds/dev.jpg"
-  bg_image: "images/backgrounds/dev.jpg" 
+  bg_image_webp: "images/backgrounds/devv.jpg"
+  bg_image: "images/backgrounds/devv.jpg" 
   icon: "" # themify icon pack : https://themify.me/themify-icons
   title: "The home of full stack web development"
   content: "Welcome to our website, we are thrilled to have you here and can't wait to show you what we have in store!"

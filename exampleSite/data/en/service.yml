@@ -5,7 +5,7 @@ service:
   service_item :
     # service item loop
     - name : Static and Dynamic Websites
-      icon : ti-layers # themify icon pack : https://themify.me/themify-icons
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
       content : With the clients at heart, we are there to serve the requests as specific/custom as they can get we can cater for requests for small businesses which usually need small and static websites
                 We also make designs for bigger businesses that may need more complex websites that have different kinds of functionalities
     # service item loop
@@ -15,7 +15,7 @@ service:
       
     # service item loop
     - name : Security
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      icon : ti-lock # themify icon pack : https://themify.me/themify-icons
       content : In as much as web development is concerned, confidentiality is also present.
                 Our web design style is always centered on security of the littlest of detail up to the most confidential of files like the information usually stored in databases.
                 We ensure this by ::
@@ -25,16 +25,18 @@ service:
                 4.Seperating user login pages from administrative ones through use of privileges
                 5.And many other funtionalities!
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Maintenance
+      icon : ti-write # themify icon pack : https://themify.me/themify-icons
+      content : Ensuring website health is also part of our major and utmost concerns for our clients
+                by that, we are always there to clear out any errors or make any adjustments to your website be it need arises.
+                The first request of maintenance is on us, afterwards you will be paying as per job at very affordable prices
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Get connected with other service providers
+      icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      content : Incase our team has too many tasks at hand, we can help you get connected with other web development firms that can help you with just the website you want to be developed
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  # - name : Networking
+   #   icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    #  content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

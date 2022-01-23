@@ -11,13 +11,15 @@ team:
       content: Highly motivated Computer Zealot who is naturally driven towards providing solutions to your web and computer related problems. With computer science at heart, Tapiwanashe is always keen to learn new things and how to use that knowledge to solve real world problems
       social:
         - icon: ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.facebook.com/tapiwanashe.chiunye/"
         - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://twitter.com/teeroyy47"
         - icon: ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link: "#"
-        - icon: ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.linkedin.com/in/tapiwanashe-chiunye-103b871a1/"
+        - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link: "https://www.instagram.com/teeroy47/"
+        - icon: ti-github # themify icon pack : https://themify.me/themify-icons
+          link: "https://github.com/teeroy47"
 
     # team member loop
     - name: Tutsirayi Tsorayi

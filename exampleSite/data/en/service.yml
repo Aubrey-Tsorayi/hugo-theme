@@ -24,7 +24,7 @@ service:
                 3.Implementing a secure Web Host
                 4.Seperating user login pages from administrative ones through use of privileges
                 5.And many other funtionalities!
-    # service item loop
+    # service item loop 
     - name : Maintenance
       icon : ti-write # themify icon pack : https://themify.me/themify-icons
       content : Ensuring website health is also part of our major and utmost concerns for our clients

@@ -8,7 +8,7 @@ team:
       image_webp: images/team/tee.webp
       image: images/team/tee.jpeg
       designation: Developer/ UI/UX
-      content: Highly motivated Computer Zealot who is naturally driven towards providing solutions to your web and computer related problems. With computer science at heart, Tapiwanashe is always keen to learn new things and how to use that knowledge to solve real world problems
+      content: Highly motivated Computer Zealot who is naturally driven towards providing solutions to your web and computer related problems.
       social:
         - icon: ti-facebook # themify icon pack : https://themify.me/themify-icons
           link: "https://www.facebook.com/tapiwanashe.chiunye/"

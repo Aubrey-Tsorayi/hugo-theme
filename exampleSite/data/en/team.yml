@@ -20,8 +20,7 @@ team:
           link: "https://www.instagram.com/teeroy47/"                                                          
         - icon: ti-github # themify icon pack : https://themify.me/themify-icons
           link: "https://github.com/teeroy47"
-        - icon: ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link: "https://dribble.com/teeroy47"
+        
 
     # team member loop
     - name: Tutsirayi Tsorayi

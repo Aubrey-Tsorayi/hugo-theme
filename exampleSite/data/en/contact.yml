@@ -23,7 +23,7 @@ contact:
       info : "alvin.phiri@africau.edu"
       info : "tutsirayit.tt@gmail.com"
 
-  # Contact form
+  # Contact form 
   contact_form:
     enable : true
     form_action : "https://formspree.io/f/moqrjrlr" #contact form works with https://formspree.io

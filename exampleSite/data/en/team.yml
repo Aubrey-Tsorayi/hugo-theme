@@ -30,11 +30,11 @@ team:
       content: Young enthusiastic developer. Always looking for ways to improve and inovate upon ideas.
       social:
         - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://twitter.com/tsorai_zw"
         - icon: ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.linkedin.com/in/tutsirayi-tsorayi-a25045171/"
         - icon: ti-github # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://github.com/Aubrey-Tsorayi"
 
     # team member loop
     - name: Alvin Phiri
@@ -48,6 +48,4 @@ team:
         - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link: "#"
         - icon: ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link: "#"
-        - icon: ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link: "#"

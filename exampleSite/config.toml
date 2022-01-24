@@ -152,21 +152,11 @@ link = "#"
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
 
 
 ################################ English Language ########################
@@ -176,7 +166,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "&copy; DevOps 2022"
 
 ################################ France Language ########################
 [Languages.fr]

@@ -5,12 +5,12 @@ about:
   about_item:
     - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
       title: We're Creative
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      content: You can definitely count on us for competitive creativity and unique designs.
 
     - icon: ti-cup # themify icon pack : https://themify.me/themify-icons
       title: We're Professional
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      content: Proffessionalism is one of our major ethics as a web design agency and we strive to always deal with our customers in the most professional way possible 
 
-    - icon: ti-thought # themify icon pack : https://themify.me/themify-icons
-      title: We're Genius
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-layout-grid2 # themify icon pack : https://themify.me/themify-icons
+      title: We're Consistent
+      content: We exist to provide the best service to our customers for an indefinite period of time, which simply implies that our service will always be the same excellent at any given point in time!

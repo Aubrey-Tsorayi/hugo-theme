@@ -3,25 +3,25 @@ feature:
   enable: true
   image: images/about/aboutt.jpg
   image_webp: images/about/aboutt.webp
-  title: We’re A Digital Design Agency.
-  content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title: We’re a multi-design agency
+  content: "As part of our web design procedures, we have quite a plethora of tools to choose from and the criterial we use is solely centered on the customer's requirements and nothing else"
   feature_item:
     # feature item loop
-    - title: SEO Optimized
+    - title: Wordpress
       icon: ti-wordpress # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content: As of late, most of the websites have been shifting to contetnt management systems and we happen to be well adept at the use of wordpress to develop just the website that  you need!
 
       # feature item loop
-    - title: Easy Customization
-      icon: ti-panel # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: Adobe Xd
+      icon: ti-check-box # themify icon pack : https://themify.me/themify-icons
+      content: User experience (UX) and User Interface are very important aspects of website building and we have made it our obligation to make sure that we design UI/UX that is comfortable to every site visitor
 
       # feature item loop
-    - title: SEO Optimized
-      icon: ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title: HUGO
+      icon: ti-check-box # themify icon pack : https://themify.me/themify-icons
+      content: As part of our building frameworks, we have also went abreast with HUGO for faster website building and design for both back and frontend
 
       # feature item loop
-    - title: Easy Customization
-      icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+   # - title: Easy Customization
+    #  icon: ti-announcement # themify icon pack : https://themify.me/themify-icons
+     # content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

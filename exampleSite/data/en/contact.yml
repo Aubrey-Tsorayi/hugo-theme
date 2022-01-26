@@ -9,6 +9,9 @@ contact:
     - icon: ti-email # themify icon pack : https://themify.me/themify-icons
       info: "Email: topdevpops6@gmail.com"
 
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +263 785 211 893"    
+
   # Contact form
   contact_form:
     enable: true

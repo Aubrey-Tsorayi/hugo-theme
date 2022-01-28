@@ -44,8 +44,8 @@ team:
       content: Alvin Phiri, talented web and graphic designer , and has years of experience in coding and problem solving.
       social:
         - icon: ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link: "#"
-        - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.facebook.com/alvie.phir.7/"
+        - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link: "instagram.com/alvinphiri._"
         - icon: ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link: "#"
+          link: "https://www.linkedin.com/in/alvin-phiri-6ab2301b9/"

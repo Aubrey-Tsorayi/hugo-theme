@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Fell free to contact us anytime
+  subtitle: Feel free to contact us anytime
   content:
   # Contact details
   contact_list:

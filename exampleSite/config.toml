@@ -118,7 +118,7 @@ weight = 7
 [params]
 logo = "images/new.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "The home of fullstack web development services"
 author = "devops"
 # Google Analytics
 google_analytics_id = "" # Your ID

@@ -27,7 +27,7 @@ team:
       image_webp: images/team/tutsi.webp
       image: images/team/tutsi.jpeg
       designation: Developer
-      content: Young enthusiastic developer. Always looking for ways to improve and inovate upon ideas.
+      content: Young enthusiastic developer. Always looking for ways to improve and innovate upon ideas.
       social:
         - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link: "https://twitter.com/tsorai_zw"
@@ -41,7 +41,7 @@ team:
       image_webp: images/team/al.webp
       image: images/team/al.jpg
       designation: Developer/ Graphic Designer
-      content: Alvin Phiri, talented web and graphic designer , and has years of experience in coding and problem solving.
+      content: Alvin Phiri, talented web and graphic designer with years of experience in coding and problem solving.
       social:
         - icon: ti-facebook # themify icon pack : https://themify.me/themify-icons
           link: "https://www.facebook.com/alvie.phir.7/"

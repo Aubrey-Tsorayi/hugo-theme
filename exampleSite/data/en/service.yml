@@ -22,19 +22,19 @@ service:
                 1.Adding HTTPS and SSL Certificate 
                 2.Use of Smart passwords that are difficult to crack
                 3.Implementing a secure Web Host
-                4.Seperating user login pages from administrative ones through use of privileges
+                4.Seperating user login pages from administrative ones through use of priviledges
                 5.And many other funtionalities!
     # service item loop 
     - name : Maintenance
       icon : ti-write # themify icon pack : https://themify.me/themify-icons
-      content : Ensuring website health is also part of our major and utmost concerns for our clients
-                by that, we are always there to clear out any errors or make any adjustments to your website be it need arises.
-                The first request of maintenance is on us, afterwards you will be paying as per job at very affordable prices
+      content : Ensuring website health is also part of our major and utmost concern for our clients
+                by that, we are always there to clear out any errors or make any adjustments to your website as the need arises.
+                The first request of maintenance is on us, afterwards you will be paying as per job at very affordable prices or rates
       
     # service item loop
     - name : Get connected with other service providers
       icon : ti-plug # themify icon pack : https://themify.me/themify-icons
-      content : Incase our team has too many tasks at hand, we can help you get connected with other web development firms that can help you with just the website you want to be developed
+      content : In case our team has too many tasks at hand, we can help you get connected with other web development firms that can help you with just the website you want to be developed
       
     # service item loop
   # - name : Networking

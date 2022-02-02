@@ -9,7 +9,7 @@ feature:
     # feature item loop
     - title: Wordpress
       icon: ti-wordpress # themify icon pack : https://themify.me/themify-icons
-      content: As of late, most of the websites have been shifting to contetnt management systems and we happen to be well adept at the use of wordpress to develop just the website that  you need!
+      content: Of late, most of the websites have been shifting to contetnt management systems and we happen to be well adept at the use of wordpress to develop just the website that  you need!
 
       # feature item loop
     - title: Adobe Xd
@@ -19,7 +19,7 @@ feature:
       # feature item loop
     - title: HUGO
       icon: ti-check-box # themify icon pack : https://themify.me/themify-icons
-      content: As part of our building frameworks, we have also went abreast with HUGO for faster website building and design for both back and frontend
+      content: As part of our building frameworks, we are also abreast with HUGO for faster website building and design for both back and frontend
 
       # feature item loop
    # - title: Easy Customization
